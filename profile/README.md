@@ -1,4 +1,4 @@
-#[remodal.](http://remodal.lt)
+# [remodal.](http://remodal.lt)
 
 Responsive website development
 
