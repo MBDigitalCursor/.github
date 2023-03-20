@@ -1,4 +1,4 @@
-# [remodal.](http://remodal.lt)
+# [remodal.](http://remodal.lt){:target="_blank"}
 Responsive website development
 
 Custom website design & individual graphic design
