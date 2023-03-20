@@ -1,5 +1,5 @@
-# [remodal.][go](http://remodal.lt){:target="_blank" rel="noopener"}
-[![remodal](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://remodal.lt)
+#[![remodal]](http://remodal.lt)
+
 Responsive website development
 
 Custom website design & individual graphic design
